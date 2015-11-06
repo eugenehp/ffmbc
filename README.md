@@ -1,4 +1,5 @@
 # What you can do with FFmbc #
+## Read-only origin is here https://code.google.com/p/ffmbc/
 
 - Import your files in Final Cut Pro, AVID Media Composer, Adobe Premiere
 - Create XDCAM HD422 files in .mov or .mxf
@@ -24,6 +25,7 @@
 
 Current stable release is version 0.7.3
 
+# License
 FFmbc license is GPL v2
 
 Please contact baptiste.coudurier@gmail.com for:
