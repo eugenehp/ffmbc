@@ -1,0 +1,4 @@
+f9db716d2d2b2ca78f4ff3c791295663 *./tests/data/vsynth1/dvhd-1080i.dv
+2880000 ./tests/data/vsynth1/dvhd-1080i.dv
+429f3c67df1007905d7e0b6f1b0c9e81 *./tests/data/dvhd_1080i.vsynth1.out.yuv
+stddev:    6.28 PSNR: 32.17 MAXDIFF:   64 bytes:   760320/  7603200

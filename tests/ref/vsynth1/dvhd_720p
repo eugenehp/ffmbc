@@ -1,0 +1,4 @@
+e012ad1474246099926e948e3057c6b2 *./tests/data/vsynth1/dvhd-720p.dv
+1440000 ./tests/data/vsynth1/dvhd-720p.dv
+23e522d86d4bf29f91b05a77d33196ec *./tests/data/dvhd_720p.vsynth1.out.yuv
+stddev:    6.43 PSNR: 31.96 MAXDIFF:   66 bytes:   760320/  7603200

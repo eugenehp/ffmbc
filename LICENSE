@@ -1,0 +1,7 @@
+FFmbc:
+-------
+FFmbc modifications are licensed under GPL v2.
+
+The nonfree external library libfaac can be hooked up in FFmpeg. You need to
+pass --enable-nonfree to configure to enable it. Employ this option with care
+as FFmpeg then becomes nonfree and unredistributable.

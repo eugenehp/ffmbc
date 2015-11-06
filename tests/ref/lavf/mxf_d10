@@ -1,0 +1,6 @@
+bf6b63abbf07a5f17ee1dcb98e3d7582 *./tests/data/lavf/lavf.mxf_d10
+5331504 ./tests/data/lavf/lavf.mxf_d10
+./tests/data/lavf/lavf.mxf_d10 CRC=0x1f26c65c
+5133cd197676ec80101d56455968600e *./tests/data/lavf/lavf_ntsc_d10.mxf
+7840304 ./tests/data/lavf/lavf_ntsc_d10.mxf
+./tests/data/lavf/lavf_ntsc_d10.mxf CRC=0x10004085

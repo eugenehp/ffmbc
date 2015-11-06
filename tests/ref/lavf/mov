@@ -1,0 +1,12 @@
+5f3eb3a2d59deddc35208fc767ac938f *./tests/data/lavf/lavf.mov
+357827 ./tests/data/lavf/lavf.mov
+./tests/data/lavf/lavf.mov CRC=0x6bff9b26
+adf217b9a4175dabfac03698c8bc9ab2 *./tests/data/lavf/lavf_tc.mov
+448558 ./tests/data/lavf/lavf_tc.mov
+./tests/data/lavf/lavf_tc.mov CRC=0xab3ab931
+52e7ee454fe3c3055737127c3dd640aa *./tests/data/lavf/lavf_imx50.mov
+6350240 ./tests/data/lavf/lavf_imx50.mov
+./tests/data/lavf/lavf_imx50.mov CRC=0x6d31abf9
+61357965c01197dbe6e17554e060556a *./tests/data/lavf/lavf_xdcamhd422.mov
+8024081 ./tests/data/lavf/lavf_xdcamhd422.mov
+./tests/data/lavf/lavf_xdcamhd422.mov CRC=0xe3b3fb17
