@@ -26,4 +26,4 @@
 Current stable release is version 0.7.3
 
 # License
-FFmbc license is GPL v2
+GPL v2
