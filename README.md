@@ -27,18 +27,3 @@ Current stable release is version 0.7.3
 
 # License
 FFmbc license is GPL v2
-
-Please contact baptiste.coudurier@gmail.com for:
- - consulting work
- - commercial support
-
-Several years of expertise in broadcast codecs: ProRes, DNxHD, IMX/D-10, AVC-Intra, formats: MXF, GXF, MOV and usages: Avid, FCP, interlacing, time code, metadata.
-
-Please support the project by donating. Thanks a lot.
-
-Any help is welcome:
-- Documentation help
-- Wiki pages describing processes and workflow
-- File validation: testing files created by FFmbc with Avid Media Composer, Adobe Premiere, Sony Vegas, etc...
-
-# Please join Freenode irc channel #ffmbc to get online help #
