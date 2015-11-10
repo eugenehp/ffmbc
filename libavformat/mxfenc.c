@@ -1965,10 +1965,10 @@ static int mxf_write_header(AVFormatContext *s)
                 av_log(s, AV_LOG_ERROR, "muxing audio only is not supported currently\n");
                 return -1;
             }
-            if (st->codec->sample_rate != 48000) {
-                av_log(s, AV_LOG_ERROR, "only 48khz is implemented\n");
-                return -1;
-            }
+            // if (st->codec->sample_rate != 48000) {
+            //     av_log(s, AV_LOG_ERROR, "only 48khz is implemented\n");
+            //     return -1;
+            // }
             av_set_pts_info(st, 64, 1, st->codec->sample_rate);
             sc->audio_channels = st->codec->channels;
             if (s->oformat == &ff_mxf_d10_muxer) {
